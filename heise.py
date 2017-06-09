@@ -5,14 +5,6 @@
 #eike sommer thomas sieron
 
 """
-4 a)
-
-
-Ergebnis des Webscrapers: ein leeres File "greyhound-data.csv" und eine Fehlermeldungen zu fehlgeschlagenen Webverbindungen.
-
-Der Scraper versucht, die Tabellen mit den Statistiken und Eltern der 100 besten Greyhounds (Windhunde?, Rennhunde?) für die Jahre von 2000 bis 2016 für die vier Länder USA; Australien, Irland und Großbritannien zu speichern.
-Zeilenweise als csv, Trennung mit ';', Voranstehend (am Beginn der csv-Zeile) der Text mit Landesnamen und Jahr
-
 
 
 4 b)
